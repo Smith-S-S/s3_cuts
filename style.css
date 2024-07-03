@@ -87,14 +87,14 @@ nav ul li a:hover::after {
 }
 
 .header-test p {
-    font-size: 48px; /* Increase the font size for the paragraph */
-    color: #ababab;
+    font-size: 38px; /* Increase the font size for the paragraph */
+    color: #000000;
 }
 
 .header-test h1 {
-    font-size: 80px; /* Increase the font size for the main heading */
+    font-size: 60px; /* Increase the font size for the main heading */
     margin-top: 20px;
-    color: #ababab;
+    color: #000000;
 }
 
 .header-test h1 span {
